@@ -1,0 +1,10 @@
+20/12/2016 15:24:13 Logginglog4j.LoggingDemo opening webiste
+20/12/2016 15:24:13 Logginglog4j.LoggingDemo entring weight
+20/12/2016 15:24:14 Logginglog4j.LoggingDemo selecting kilograms
+20/12/2016 15:24:14 Logginglog4j.LoggingDemo selecting height in feet
+20/12/2016 15:24:14 Logginglog4j.LoggingDemo selecting height in inchs
+20/12/2016 15:24:15 Logginglog4j.LoggingDemo Clicking on calculate
+20/12/2016 15:24:15 Logginglog4j.LoggingDemo Getting SIUnit value
+20/12/2016 15:24:15 Logginglog4j.LoggingDemo Getting USUnit value
+20/12/2016 15:24:15 Logginglog4j.LoggingDemo Getting UKUnit value
+20/12/2016 15:24:15 Logginglog4j.LoggingDemo Getting overall description
