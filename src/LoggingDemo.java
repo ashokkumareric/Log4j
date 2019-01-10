@@ -14,6 +14,7 @@ public class LoggingDemo {
     	System.setProperty("webdriver.gecko.driver","C:\\Workspace\\SeleniumScratch_Framework\\Drivers\\geckodriver.exe" ); 
     	WebDriver driver = new FirefoxDriver();
          Logger log = Logger.getLogger("Logginglog4j.LoggingDemo");
+		 System.out.println("added new line");
          Logger.getRootLogger();
          driver.get("http://healthunify.com/bmicalculator/");                  				 
          log.debug("opening webiste");
